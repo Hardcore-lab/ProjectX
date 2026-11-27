@@ -1,0 +1,12 @@
+{
+  "system": {
+    "theme": "eve"
+  },
+  "shop": {
+    "currency": "RUB",
+    "currencySymbol": "₽",
+    "currencySymbolPosition": "after"
+  }
+}
+
+

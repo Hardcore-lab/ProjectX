@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.evershop/
+dist/
+build/
+coverage/
+*.backup
+*.sql
+*.dump
+*.log
+.DS_Store
+*.code-workspace
